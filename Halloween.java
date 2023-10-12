@@ -1,4 +1,3 @@
-
 public class Halloween extends Holidays {
 	String month = "October";
 	public void display() {
