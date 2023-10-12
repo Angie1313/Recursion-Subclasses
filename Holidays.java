@@ -1,5 +1,3 @@
-
-
 public class Holidays {
 	String month = "I don't know";
 	public void display() {
