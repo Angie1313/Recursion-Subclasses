@@ -1,4 +1,3 @@
-
 public class Christmas extends Holidays {
 	String month = "December";
 	public void display() {
